@@ -1,1 +1,3 @@
-这是一个空白main分支
+uiautomation>=2.0.0
+pyperclip>=1.8.0
+pywin32>=300

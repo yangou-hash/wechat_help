@@ -1,3 +1,8 @@
-uiautomation>=2.0.0
+# 核心依赖
 pyperclip>=1.8.0
+
+# 可选依赖（推荐安装）
 pywin32>=300
+uiautomation>=2.0.0
+keyboard>=0.13.5
+watchdog>=3.0.0
